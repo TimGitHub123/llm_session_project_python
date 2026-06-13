@@ -125,7 +125,7 @@ llm_tg_bot/
 
 **Telegram**
 
-![alt text](screenshots/Пример_взаимодействия_с_ботом.png)
+![alt text](screenshots/tg_example.png)
 
 **Rabbit**
 
